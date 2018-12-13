@@ -1,6 +1,6 @@
 #include <stdio.h> 
 int main(){
-	int i,j,x=0,indis,a[10]={-89,8,-4,-8,1,78,22,-32,-10,16};
+	int i,j,x=0,indis,a[10]={-86,8,-4,-8,1,78,22,-32,-10,16};
 	for(i=0;i<10;i++){
 		if(a[i]>0){
 			if(x==0)x=a[i];
